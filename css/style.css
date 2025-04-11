@@ -1,0 +1,23 @@
+.moon {
+    font-size: 30px;
+    margin: 0 auto;
+    width: 300px;
+}
+
+.dark {
+    background-color: black;
+}
+
+body {
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    align-items: center ;
+    justify-content: center;
+    
+}
+#mode-btn{
+    cursor: pointer;
+    border: none;
+    border-radius:10px;
+}
